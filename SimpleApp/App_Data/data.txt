@@ -1,0 +1,6 @@
+﻿1, Mobile Phone, 600, ОписаниеMob, 0
+2, Laptop, 3200, ОписаниеLaptop, 8
+3, Keyboard, 35, ОписаниеKey, 33
+4, Mouse, 10, ОписаниеMouse, 2
+5, Pen, 1, ОписаниеPen, 4
+6, Notebook, 1, ОписаниеNote, 5
